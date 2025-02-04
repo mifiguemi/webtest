@@ -1,9 +1,7 @@
-
-
 body {
     background-color:antiquewhite;
     color:midnightblue;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: 900;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
@@ -15,4 +13,3 @@ body {
     display: block;
     text-align: center;
 }
-
